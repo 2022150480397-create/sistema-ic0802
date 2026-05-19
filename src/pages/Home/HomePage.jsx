@@ -59,7 +59,7 @@ export default function HomePage() {
                 >
                   BIENVENIDAS
                   <br />
-                  Nuestro sistema 
+                  Mi sistema 💕
                 </Typography>
 
                 <Typography
