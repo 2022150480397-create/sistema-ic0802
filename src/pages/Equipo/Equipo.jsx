@@ -16,7 +16,7 @@ import PageContainer from "../../components/common/PageContainer";
 
 const integrantes = [
   {
-    nombre: "Juan Pérez García",
+    nombre: "Karla Gerardo Faustin",
     matricula: "220810001",
     carrera: "Ingeniería en Sistemas Computacionales",
     correo: "l220810001@tesjo.edu.mx",
@@ -26,7 +26,7 @@ const integrantes = [
     color: "#3b82f6",
   },
   {
-    nombre: "María López Hernández",
+    nombre: "Alexandra Hinojos Becerril",
     matricula: "220810002",
     carrera: "Ingeniería en Sistemas Computacionales",
     correo: "l220810002@tesjo.edu.mx",
@@ -36,7 +36,7 @@ const integrantes = [
     color: "#8b5cf6",
   },
   {
-    nombre: "Carlos Ramírez Torres",
+    nombre: "Fatima Hurtado Rodriguez",
     matricula: "220810003",
     carrera: "Ingeniería en Sistemas Computacionales",
     correo: "l220810003@tesjo.edu.mx",
@@ -46,7 +46,7 @@ const integrantes = [
     color: "#10b981",
   },
   {
-    nombre: "Ana González Flores",
+    nombre: "Shaila Vite Antonio",
     matricula: "220810004",
     carrera: "Ingeniería en Sistemas Computacionales",
     correo: "l220810004@tesjo.edu.mx",
