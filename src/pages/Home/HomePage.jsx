@@ -57,7 +57,7 @@ export default function HomePage() {
                     lineHeight: 1.2
                   }}
                 >
-                  HOME
+                  BIENVENIDAS
                   <br />
                   Nuestro sistema 
                 </Typography>
