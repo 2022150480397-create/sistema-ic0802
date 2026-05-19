@@ -66,7 +66,8 @@ export default function HomePage() {
                   variant="h6"
                   sx={{ opacity: 0.75, maxWidth: 500 }}
                 >
-                  Descripción...
+                  Somos el equipo IC-0802 de la carrera de ISC en el TESJO. 
+Este es nuestro proyecto de Programación Web. ¡Gracias por visitarlo!
                 </Typography>
 
                 <Stack direction="row" spacing={2}>
