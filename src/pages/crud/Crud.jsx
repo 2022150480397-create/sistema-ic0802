@@ -17,9 +17,9 @@ import PageContainer from "../../components/common/PageContainer";
 
 // ── Datos iniciales ───────────────────────────────────────────────────────────
 const initialData = [
-  { id: 1, nombre: "Juan Pérez",   matricula: "220810001", correo: "juan@tesjo.edu.mx",   telefono: "722-100-0001", estado: "Activo" },
-  { id: 2, nombre: "María López",  matricula: "220810002", correo: "maria@tesjo.edu.mx",  telefono: "722-100-0002", estado: "Activo" },
-  { id: 3, nombre: "Carlos Ruiz",  matricula: "220810003", correo: "carlos@tesjo.edu.mx", telefono: "722-100-0003", estado: "Inactivo" },
+  { id: 1, nombre: "Karla Gerardo Faustin",   matricula: "220810001", correo: "karla@tesjo.edu.mx",   telefono: "722-100-0001", estado: "Activo" },
+  { id: 2, nombre: "Alexandra Hinojosa Becerril",  matricula: "220810002", correo: "alexandra@tesjo.edu.mx",  telefono: "722-100-0002", estado: "Activo" },
+  { id: 3, nombre: "Fatima Hurtado Rodriguez",  matricula: "220810003", correo: "fatima@tesjo.edu.mx", telefono: "722-100-0003", estado: "Inactivo" },
 ];
 
 const emptyForm = { nombre: "", matricula: "", correo: "", telefono: "", estado: "Activo" };
